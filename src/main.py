@@ -1,4 +1,4 @@
-from datafile_generator import fill_pg_table_with_random_data
+from generator import fill_pg_table_with_random_data
 
 
 def main():
